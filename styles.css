@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+
+.grey-block {
+    width: 1385px;
+    height:780px;
+    background-color:rgb(220,220,222);
+    margin-left: 55px;
+    
+}
+
+footer {
+    height: auto;
+}
+footer h3 {
+    display: inline-block;
+    margin-left: 54px;
+}
+
+header h3 {
+    position: relative;
+    left: 54px;
+    width:70px;
+}
+
+/* .circle {
+    width: 75px;
+    height: 75px;
+    background-color: rgb(107,55,237);
+    position:absolute;
+    left: 955px;
+    border-radius: 50%;
+    top:25px;
+} */
